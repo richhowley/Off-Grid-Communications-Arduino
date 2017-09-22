@@ -4,3 +4,4 @@ This is the Arduino part of an off-grid comminication system that uses Arduinos 
 
 Arduino acts as a traffic cop routing messages recieved on the serial port, from the browser, to the HC-12 and messages recieved from the HC-12 to the serial port, destined for the browser.
 
+![UNO-HC12](https://user-images.githubusercontent.com/318132/30749013-0ef66226-9f80-11e7-9271-cff6a257e594.jpg?raw=true "UNO")
